@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2e30cb42c948644a9fae2698f312e3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - launcher_holder: {instanceID: 0}
+  - alert_marker_prefab: {fileID: 5427228725765929173, guid: 346a7cd82e721474682ee3de33b1ea67,
+      type: 3}
+  - explosion: {fileID: 7609520384340130314, guid: b7be447643c886b45968157e2438ee44,
+      type: 3}
+  executionOrder: -28
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

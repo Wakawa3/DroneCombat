@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 712ef7f8f83878340bf96c2de23f2e61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvas1: {instanceID: 0}
+  - game_over_ui_prefab: {fileID: 1579953153465840188, guid: 948742dd225420449b0273a3a74abd5c,
+      type: 3}
+  - game_over_menu: {fileID: 126527485644073062, guid: b0727cae53400c5469e5ad1795862d70,
+      type: 3}
+  - stage_clear_ui_prefab: {fileID: 1579953153465840188, guid: bb4424bcbde2b7545b8f8b146694e2ed,
+      type: 3}
+  - event_text_back: {instanceID: 0}
+  - event_text_speaker_object: {instanceID: 0}
+  - event_text_object: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c2fdfaa903ead142bceafe91919fd5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - launcher: {instanceID: 0}
+  - target: {instanceID: 0}
+  - enemy_missile_prefab: {fileID: 2182083227515100406, guid: 5088e070ae427a74aa1fdfab057bfabc,
+      type: 3}
+  executionOrder: -29
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

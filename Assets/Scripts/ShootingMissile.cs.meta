@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad6cb43c45ffe4349a29d67cf0f990fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Launcher: {instanceID: 0}
+  - Missile: {fileID: 3755260906131758146, guid: 605630e7ee1d5f046bebc64efa24bb5a,
+      type: 3}
+  - Target: {instanceID: 0}
+  executionOrder: -40
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

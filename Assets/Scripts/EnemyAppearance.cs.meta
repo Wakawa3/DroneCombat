@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a2c951144eac599469b3869f0fefd454
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lock_on_cursor: {fileID: 3608035262150990873, guid: 32e1a804eabacaf48adc2d4a4c3884e0,
+      type: 3}
+  - enemy_radar_marker_prefab: {fileID: 3086753788548303924, guid: 9b1373e23bf388e4b9a45000c592b2ef,
+      type: 3}
+  - enemy_radar_marker: {instanceID: 0}
+  executionOrder: -80
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

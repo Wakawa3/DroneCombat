@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 104ec7e2bcf4c4642b69b445559ab644
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target_text_prefab: {fileID: 3002606951776124819, guid: 5bcd75177fa0fde4e817f377c2a76fc7,
+      type: 3}
+  - cursor_sprite: {fileID: 21300000, guid: 9ee010e8d1caa9b4185d06ac42dfd38c, type: 3}
+  - distance_text_prefab: {fileID: 2606397880054706450, guid: f992b81558774c346bf08d2ecfda75d8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

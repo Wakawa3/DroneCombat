@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eaf9c391a6b2b05429913fc7c1d06c67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - auto_control_prefab: {fileID: 1579953153465840188, guid: 1585603e4ef4e2545bb272387eac803d,
+      type: 3}
+  - canvas: {instanceID: 0}
+  - pause_prefab: {fileID: 126527485644073062, guid: a5c13a597d3641949a2bcc3d810a98b5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
